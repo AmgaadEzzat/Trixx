@@ -1,0 +1,458 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|e:\\.net\\c#\\projectc#\\trixxcafe_windowsapplication\\formsalaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:formsalaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|e:\\.net\\c#\\projectc#\\trixxcafe_windowsapplication\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|e:\\.net\\c#\\projectc#\\trixxcafe_windowsapplication\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|e:\\.net\\c#\\projectc#\\trixxcafe_windowsapplication\\reports\\rptbill.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:reports\\rptbill.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|e:\\.net\\c#\\projectc#\\trixxcafe_windowsapplication\\frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:frmbilllist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\formprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:formprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Reports\\rptSaleByCategory.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:Reports\\rptSaleByCategory.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|e:\\.net\\c#\\projectc#\\trixxcafe_windowsapplication\\reports\\rptproducts.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:reports\\rptproducts.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmproductsreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:frmproductsreport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:frmreports.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\reports\\rptsalaries.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:reports\\rptsalaries.rpt||{C0EF7560-990E-4D61-B970-65A6096B6866}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\sampleviewforsalaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:sampleviewforsalaries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmsalebycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:frmsalebycategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Trixx_CafeSystem||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\migrations\\202408241920522_editinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:migrations\\202408241920522_editinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\RTLMessageBoxForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:RTLMessageBoxForm.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\View\\frmProductView.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:View\\frmProductView.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\SampleView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:SampleView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Model\\frmCategoryAdd.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:Model\\frmCategoryAdd.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Model\\frmCategoryAdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:Model\\frmCategoryAdd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\View\\frmCategoryView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:View\\frmCategoryView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\sampleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:sampleview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\View\\frmProductView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{82CBDE7D-A0CB-4771-A8CF-5D85403D1C11}|Trixx_CafeSystem.csproj|solutionrelative:View\\frmProductView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormSalaries.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\FormSalaries.cs",
+              "RelativeDocumentMoniker": "FormSalaries.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\FormSalaries.cs",
+              "RelativeToolTip": "FormSalaries.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAWwDEAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T10:08:14.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "rptProducts.rpt",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Reports\\rptProducts.rpt",
+              "RelativeDocumentMoniker": "Reports\\rptProducts.rpt",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Reports\\rptProducts.rpt",
+              "RelativeToolTip": "Reports\\rptProducts.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-31T09:42:10.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmBillList.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmBillList.cs",
+              "RelativeDocumentMoniker": "frmBillList.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmBillList.cs",
+              "RelativeToolTip": "frmBillList.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAAwCUAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:34:46.811Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmBillList.cs [Design]",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmBillList.cs",
+              "RelativeDocumentMoniker": "frmBillList.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmBillList.cs [Design]",
+              "RelativeToolTip": "frmBillList.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-31T09:34:44.818Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "rptBill.rpt",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Reports\\rptBill.rpt",
+              "RelativeDocumentMoniker": "Reports\\rptBill.rpt",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Reports\\rptBill.rpt",
+              "RelativeToolTip": "Reports\\rptBill.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-31T09:33:07.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmMain.cs [Design]",
+              "RelativeToolTip": "frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T10:04:26.78Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmMain.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmMain.cs",
+              "RelativeDocumentMoniker": "frmMain.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmMain.cs",
+              "RelativeToolTip": "frmMain.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAIAwwCgAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T20:30:16.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmProductsReport.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmProductsReport.cs",
+              "RelativeDocumentMoniker": "frmProductsReport.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmProductsReport.cs",
+              "RelativeToolTip": "frmProductsReport.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAArwCAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:01:56.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FormPrint.cs [Design]",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\FormPrint.cs",
+              "RelativeDocumentMoniker": "FormPrint.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\FormPrint.cs [Design]",
+              "RelativeToolTip": "FormPrint.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T11:27:45.949Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rptSaleByCategory.rpt",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Reports\\rptSaleByCategory.rpt",
+              "RelativeDocumentMoniker": "Reports\\rptSaleByCategory.rpt",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Reports\\rptSaleByCategory.rpt",
+              "RelativeToolTip": "Reports\\rptSaleByCategory.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-24T15:46:53.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "frmReports.cs [Design]",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmReports.cs",
+              "RelativeDocumentMoniker": "frmReports.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmReports.cs [Design]",
+              "RelativeToolTip": "frmReports.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:39:52.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "rptSalaries.rpt",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Reports\\rptSalaries.rpt",
+              "RelativeDocumentMoniker": "Reports\\rptSalaries.rpt",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Reports\\rptSalaries.rpt",
+              "RelativeToolTip": "Reports\\rptSalaries.rpt",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAPdSURBVDhPrZRbaBxVGMf/c9nd2Vuyu9nN5m7aStI2oWtSCBgtWgj10oe2D2Le1FRRBBEk\u002BCJo8amIIL5U0BfFF6mFalOs0CdrWqhJNkmTUEyyzaXuJpvsdXZ2dnauntmdbJvEvvkb/pxvZr7vP\u002Bec\u002BTj4XzEMg7LCCj39z7/y6vC7n1m3T2RtaWHi8ncXP7Bud8FaYwVPnS94pPeZgcihIBiGBkWuvfyzXcC0P9SsKrJ08\u002Br3XxbymaT1qgJjjRXaOrsiz518\u002BdyJSCv8Xid8HgcCXo7Ej1QQZciGrf7EswN9W\u002BlMLpva3hCLfNayAG2NNcw50RSFYklBtiAhs0diWYXXZcfxo23O4fMfXewbHHrNWx8IV6v/w7AGcSa\u002B\u002B0VebeVEXBuPgSezPT383qdDZ98YrRY9YYYmDKlm6KpkWsLvxhg2qTjaw14M9rRg4EgTBntbcKCtwel2OzmrbLchRUxoYmBe5kjTNAS6gHvGLK4LV/FD/lssUBMIB9xosuThbOSjj2z2GJr7txNTyGgpLGl/Y5G6j/viPH4VruAX4WfMKzOVD5qzN/Meh2ZcjRxRHZGPste7dIOGphuQjCKiUhTjpXFojAyH7oCmabjJ38Cl9FfIKCkYlLbPkG0\u002Bc/lFQI\u002BQOEg1cpGlDYP8TQVjxetYLi9DhYZcKYdCloeqqSQViKYn8f7GCL4\u002BdolsjrPqZMF\u002B8\u002BExV1lRfGleaY5tlP0zqzIu/JQC6\u002BtCOryCXDgKw6OD1hhIs2WU4xI6mjsx\u002BvrHaORCyFCCZVWFVgtri7qw/mebt3Br4BC73NPBIZGWEVsM4uFsL9KrByGyAkkkWxFX0cf24/zRt/FC6CQ8Ns\u002B\u002BJTM5tX47OrOwSp6vdbb6Q4c73Kc4O4tYUkN6MwRKDsLuT0HMJ/CU1I43B0bw1tBIxcjUZlpAdGpqYvavWzcqhrH524jN39FFxVZk65qebm1uOHeqP4BkXsc2r0NM\u002BWE8OAy7L4rPX/oEZyJnwZI22WmvZKaE6ejkxPTdqmGtbebu/oa529dgt7FwO\u002B3obnGgI2iDi2PgdzRg9MAFdLl6YZBcilSZKzXbj5whtVYzqRlKRR6lYp4kUzBbJ1cCNFJZ72Hhd9sRtIXB6nboul5b7uPaoWZoompAtghMLEuIZwxyhDFoD9LoDqvI8SISKQFxcnytb/E1lWS1cpjssOs8pGiGVw37yty61Ej\u002BC9cZouBlVTHoKKTWE7liOsvL0EpaucSbK6\u002BR2kqsWeFuw5YAN336eOCLsqK\u002BIxSl7rwgI54UZhaWtn9cXElOKqr28N6dMX7qjyuKVbIH4F/CwpxOdjf1iQAAAABJRU5ErkJggg==",
+              "WhenOpened": "2024-08-25T11:15:03.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SampleViewForSalaries.cs [Design]",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\SampleViewForSalaries.cs",
+              "RelativeDocumentMoniker": "SampleViewForSalaries.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\SampleViewForSalaries.cs [Design]",
+              "RelativeToolTip": "SampleViewForSalaries.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T09:11:57.878Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmReports.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmReports.cs",
+              "RelativeDocumentMoniker": "frmReports.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmReports.cs",
+              "RelativeToolTip": "frmReports.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwDQAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:49:23.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmSaleByCategory.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmSaleByCategory.cs",
+              "RelativeDocumentMoniker": "frmSaleByCategory.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\frmSaleByCategory.cs",
+              "RelativeToolTip": "frmSaleByCategory.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAASwBcAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T08:48:23.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:09:20.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Trixx_CafeSystem",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Trixx_CafeSystem.csproj",
+              "RelativeDocumentMoniker": "Trixx_CafeSystem.csproj",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Trixx_CafeSystem.csproj",
+              "RelativeToolTip": "Trixx_CafeSystem.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T20:38:05.99Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "202408241920522_editInit.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Migrations\\202408241920522_editInit.cs",
+              "RelativeDocumentMoniker": "Migrations\\202408241920522_editInit.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Migrations\\202408241920522_editInit.cs",
+              "RelativeToolTip": "Migrations\\202408241920522_editInit.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T19:20:56.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RTLMessageBoxForm.Designer.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\RTLMessageBoxForm.Designer.cs",
+              "RelativeDocumentMoniker": "RTLMessageBoxForm.Designer.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\RTLMessageBoxForm.Designer.cs",
+              "RelativeToolTip": "RTLMessageBoxForm.Designer.cs",
+              "ViewState": "AQIAADwAAAAAAAAAAAAhwE8AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-24T09:30:34.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Product.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBEAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T19:19:12.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "frmProductView.Designer.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\View\\frmProductView.Designer.cs",
+              "RelativeDocumentMoniker": "View\\frmProductView.Designer.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\View\\frmProductView.Designer.cs",
+              "RelativeToolTip": "View\\frmProductView.Designer.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAAAIkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T16:17:31.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SampleView.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\SampleView.cs",
+              "RelativeDocumentMoniker": "SampleView.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\SampleView.cs",
+              "RelativeToolTip": "SampleView.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAowBMAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:47:41.573Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "frmCategoryAdd.Designer.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Model\\frmCategoryAdd.Designer.cs",
+              "RelativeDocumentMoniker": "Model\\frmCategoryAdd.Designer.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Model\\frmCategoryAdd.Designer.cs",
+              "RelativeToolTip": "Model\\frmCategoryAdd.Designer.cs",
+              "ViewState": "AQIAAEQAAAAAAAAAAAAAADQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:12:43.995Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "frmCategoryAdd.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Model\\frmCategoryAdd.cs",
+              "RelativeDocumentMoniker": "Model\\frmCategoryAdd.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\Model\\frmCategoryAdd.cs",
+              "RelativeToolTip": "Model\\frmCategoryAdd.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T17:21:40.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "frmCategoryView.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\View\\frmCategoryView.cs",
+              "RelativeDocumentMoniker": "View\\frmCategoryView.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\View\\frmCategoryView.cs",
+              "RelativeToolTip": "View\\frmCategoryView.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAhwA4AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:48:17.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SampleView.cs [Design]",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\SampleView.cs",
+              "RelativeDocumentMoniker": "SampleView.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\SampleView.cs [Design]",
+              "RelativeToolTip": "SampleView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:47:37.174Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "frmProductView.cs",
+              "DocumentMoniker": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\View\\frmProductView.cs",
+              "RelativeDocumentMoniker": "View\\frmProductView.cs",
+              "ToolTip": "E:\\.net\\C#\\ProjectC#\\TrixxCafe_WindowsApplication\\View\\frmProductView.cs",
+              "RelativeToolTip": "View\\frmProductView.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAawA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-19T15:47:07.646Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
